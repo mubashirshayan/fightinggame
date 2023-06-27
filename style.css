@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.main{
+    background-image: url('images/ggxx-stage-paris2.gif');
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+   
+   
+}
+#player1{
+ 
+    height:200px;
+    width: fit-content;
+    background-color: blue;
+    /* margin-left: 50px;
+    margin-left: 0px;
+     */
+    
+}
+#player2{
+   
+    height:200px;
+    width: auto;
+    /* margin-right: 50px;
+    margin-right: 0px;*/
+} 
+
+/* #player1{
+ 
+    height:"200px"
+    
+}
+#player2{
+   
+    height:"200px"
+} */
